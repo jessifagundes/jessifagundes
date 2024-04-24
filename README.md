@@ -1,16 +1,18 @@
-### Hi there 👋
+# Olá pessoal!
 
-<!--
-**jessifagundes/jessifagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sejam bem vindos! Meu nome é Jessica Fagundes de Souza e sou Desenvolvedora Web Full-Stack. No momento estou fazendo o curso de Desenvolvimento de Software Full-stack na @cubosacademy. Por aqui vou compartilhar meus projetos pessoais e também os projetos que venho desenvolvendo durante o curso.
 
-Here are some ideas to get you started:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-fagundes-70362b75)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My skills
+
+HTML, CSS, JS, Typescript e React
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessifagundes)](https://github.com/jessifagundes/)
