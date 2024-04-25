@@ -1,6 +1,6 @@
 # Olá pessoal!
 
-Sejam bem vindos! Meu nome é Jessica Fagundes de Souza e sou Desenvolvedora Web Full-Stack. No momento estou fazendo o curso de Desenvolvimento de Software Full-stack na @cubosacademy. Por aqui vou compartilhar meus projetos pessoais e também os projetos que venho desenvolvendo durante o curso.
+Sejam bem vindos! Meu nome é Jessica Fagundes de Souza e sou Desenvolvedora Web Full-Stack. No momento estou fazendo o curso de Desenvolvimento de Software Full-stack na [@cubosacademy](https://cubos.academy/) . Por aqui vou compartilhar meus projetos pessoais e também os projetos que venho desenvolvendo durante o curso.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-fagundes-70362b75)
 
