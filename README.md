@@ -14,5 +14,6 @@ Sejam bem vindos! Meu nome é Jessica Fagundes de Souza e no momento estou fazen
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessifagundes&theme=radical)](https://github.com/jessifagundes/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessifagundes)](https://github.com/jessifagundes/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessifagundes&theme=radical)](https://github.com/jessifagundes/)
