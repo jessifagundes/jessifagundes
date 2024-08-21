@@ -1,6 +1,8 @@
 # Olá pessoal!
 
-Sejam bem vindos! Meu nome é Jessica Fagundes de Souza e no momento estou fazendo o curso de Desenvolvimento de Software Full-stack na [@cubosacademy](https://cubos.academy/), no qual venho estudando Lógica de Programação, JavaScript, Node.js e Git. Por aqui vou compartilhar meus projetos pessoais e também os projetos que venho desenvolvendo durante o curso.
+Sejam bem vindos! Meu nome é Jessica Fagundes de Souza e no momento estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas na UDESC. 
+Também estou fazendo o curso de Desenvolvimento de Software Full-stack na [@cubosacademy](https://cubos.academy/), no qual venho estudando Lógica de Programação, JavaScript, Node.js e Git. 
+Por aqui vou compartilhar meus projetos pessoais e também os projetos que venho desenvolvendo durante o curso.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-fagundes-70362b75)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jessifagundes/)
